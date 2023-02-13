@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Main wall light -->
+
+  <Lighting_MURWallLight.label>壁灯</Lighting_MURWallLight.label>
+  <Lighting_MURWallLight.description>安装在墙上的灯。</Lighting_MURWallLight.description>
+
+
+  <!-- Sun light -->
+
+  <Lighting_MURWallSunLight.label>太阳壁灯</Lighting_MURWallSunLight.label>
+  <Lighting_MURWallSunLight.description>安装在墙上的太阳灯。</Lighting_MURWallSunLight.description>
+  <Lighting_MURWallSunLight.comps.3.offMessage>关闭太阳灯休息期。</Lighting_MURWallSunLight.comps.3.offMessage>
+
+
+  <!-- Wall darklight -->
+
+  <Lighting_MURWallLightDark.label>壁灯（微光）</Lighting_MURWallLightDark.label>
+  <Lighting_MURWallLightDark.description>安装在墙上的微光灯。</Lighting_MURWallLightDark.description>
+
+
+  <!-- Colored lights: Primary -->
+
+  <Lighting_MURWallLightRed.label>壁灯 (红)</Lighting_MURWallLightRed.label>
+  <Lighting_MURWallLightRed.description>安装在墙上的灯，红色。</Lighting_MURWallLightRed.description>
+
+  <Lighting_MURWallLightGreen.label>壁灯 (绿)</Lighting_MURWallLightGreen.label>
+  <Lighting_MURWallLightGreen.description>安装在墙上的灯，绿色。</Lighting_MURWallLightGreen.description>
+
+  <Lighting_MURWallLightBlue.label>壁灯 (蓝)</Lighting_MURWallLightBlue.label>
+  <Lighting_MURWallLightBlue.description>安装在墙上的灯，蓝色。</Lighting_MURWallLightBlue.description>
+
+
+  <!-- Colored lights: Secondary -->
+
+  <Lighting_MURWallLightYellow.label>壁灯 (黄)</Lighting_MURWallLightYellow.label>
+  <Lighting_MURWallLightYellow.description>安装在墙上的灯，黄色。</Lighting_MURWallLightYellow.description>
+
+  <Lighting_MURWallLightMagenta.label>壁灯 ( 洋红)</Lighting_MURWallLightMagenta.label>
+  <Lighting_MURWallLightMagenta.description>安装在墙上的灯， 洋红色。</Lighting_MURWallLightMagenta.description>
+
+  <Lighting_MURWallLightCyan.label>壁灯 (青)</Lighting_MURWallLightCyan.label>
+  <Lighting_MURWallLightCyan.description>安装在墙上的灯，青色。</Lighting_MURWallLightCyan.description>
+
+
+  <!-- Colored lights: Tertiary -->
+
+  <Lighting_MURWallLightRose.label>壁灯 (玫瑰)</Lighting_MURWallLightRose.label>
+  <Lighting_MURWallLightRose.description>安装在墙上的灯，玫瑰色。</Lighting_MURWallLightRose.description>
+
+  <Lighting_MURWallLightViolet.label>壁灯 ( 紫罗兰)</Lighting_MURWallLightViolet.label>
+  <Lighting_MURWallLightViolet.description>安装在墙上的灯， 紫罗兰色。</Lighting_MURWallLightViolet.description>
+
+  <Lighting_MURWallLightAzure.label>壁灯 ( 蔚蓝)</Lighting_MURWallLightAzure.label>
+  <Lighting_MURWallLightAzure.description>安装在墙上的灯，蔚蓝色。</Lighting_MURWallLightAzure.description>
+
+  <Lighting_MURWallLightSpringGreen.label>壁灯 (新绿)</Lighting_MURWallLightSpringGreen.label>
+  <Lighting_MURWallLightSpringGreen.description>安装在墙上的灯，新绿色。</Lighting_MURWallLightSpringGreen.description>
+
+  <Lighting_MURWallLightChartreuse.label>壁灯 (黄绿)</Lighting_MURWallLightChartreuse.label>
+  <Lighting_MURWallLightChartreuse.description>安装在墙上的灯，黄绿色。</Lighting_MURWallLightChartreuse.description>
+
+  <Lighting_MURWallLightOrange.label>壁灯 (橙)</Lighting_MURWallLightOrange.label>
+  <Lighting_MURWallLightOrange.description>安装在墙上的灯，橙色。</Lighting_MURWallLightOrange.description>
+
+
+</LanguageData>

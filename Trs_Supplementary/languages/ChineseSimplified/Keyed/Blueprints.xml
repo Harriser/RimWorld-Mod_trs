@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Fluffy.Blueprints.DefaultBlueprintName>蓝图</Fluffy.Blueprints.DefaultBlueprintName>
+  <Fluffy.Blueprints.NameAlreadyTaken>「{0}」已存在。请勿使用相同的名称。</Fluffy.Blueprints.NameAlreadyTaken>
+  <Fluffy.Blueprints.InvalidBlueprintName>「{0}」为无效名称。\n请使用字母和数字字符、下划线（a-Z，_）。不允许使用空格。</Fluffy.Blueprints.InvalidBlueprintName>
+  <Fluffy.Blueprints.LoadFromXML>导入蓝图「{0}」</Fluffy.Blueprints.LoadFromXML>
+  <Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>无法创建蓝图，未选择任何物体。</Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>
+  <Fluffy.Blueprint.Cost>材料总计：</Fluffy.Blueprint.Cost>
+  <Fluffy.Blueprints.Remove>移除蓝图</Fluffy.Blueprints.Remove>
+  <Fluffy.Blueprints.SaveToXML>导出蓝图</Fluffy.Blueprints.SaveToXML>
+  <Fluffy.Blueprints.RemoveAndDeleteXML>移除蓝图或删除已导出的蓝图。</Fluffy.Blueprints.RemoveAndDeleteXML>
+  <Fluffy.Blueprints.Rename>重命名蓝图</Fluffy.Blueprints.Rename>
+  <Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>已存在名称为「{0}」的蓝图。\n请选择不同的名称。</Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>
+  <Fluffy.Blueprints.Create>创建</Fluffy.Blueprints.Create>
+  <Fluffy.Blueprints.CreateHelp>左键点击创建新蓝图。\n右键点击导出蓝图。</Fluffy.Blueprints.CreateHelp>
+  <Fluffy.Blueprints.NoStoredBlueprints>未发现已导出的蓝图，或蓝图已全部载入。</Fluffy.Blueprints.NoStoredBlueprints>
+  <Fluffy.Blueprints.NothingAvailableInBlueprint>在{0}中所有项目无法在当前科技下建造。</Fluffy.Blueprints.NothingAvailableInBlueprint>
+  <Fluffy.Blueprints.XNotAvailableInBlueprint>在{0}中部分项目无法在当前科技下建造：{1}</Fluffy.Blueprints.XNotAvailableInBlueprint>
+
+  <Fluffy.Blueprints.UnFlippable.HasInteractionCell>{0} 不能翻转并且有一个交互点。翻转它可能会导致无效放置。</Fluffy.Blueprints.UnFlippable.HasInteractionCell>
+  <Fluffy.Blueprints.UnRotatable.HasInteractionCell>{0} 不能旋转并且有一个交互点。旋转它可能会导致无效放置。</Fluffy.Blueprints.UnRotatable.HasInteractionCell>
+  <Fluffy.Blueprints.UnRotatable.NonSquare>{0} 无法旋转，也不是正方形。旋转蓝图将导致 {0} 的无效放置。</Fluffy.Blueprints.UnRotatable.NonSquare>
+
+  <!-- I'm aware this is a _very_ suboptimal solution, but short of writing a custom languageWorker like thing for each language, this will have to do. It's only for default blueprint names anyway. -->
+  <Fluffy.Blueprints.Plural>{0}s</Fluffy.Blueprints.Plural>
+
+  <!-- copy command -->
+  <Fluffy.Blueprints.Copy>复制</Fluffy.Blueprints.Copy>
+  <Fluffy.Blueprints.CreateFromSelection>创建蓝图</Fluffy.Blueprints.CreateFromSelection>
+  <Fluffy.Blueprints.CopyHelp>从选定的对象创建临时蓝图。\n\n右键点击：从当前选定的对象创建永久蓝图。</Fluffy.Blueprints.CopyHelp>
+
+  <!-- Options -->
+  <Fluffy.Blueprints>蓝图</Fluffy.Blueprints>
+  <Fluffy.Blueprints.CopyKey>复制快捷键</Fluffy.Blueprints.CopyKey>
+
+
+</LanguageData>

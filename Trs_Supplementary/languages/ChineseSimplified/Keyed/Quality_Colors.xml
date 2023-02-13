@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<QualityColors>装备的品质颜色</QualityColors>
+  <QualityColors.Colors.Label>换颜色</QualityColors.Colors.Label>
+  <QualityColors.Colors.Tooltip>装备品质颜色</QualityColors.Colors.Tooltip>
+  <QualityColors.Change>编辑{0}颜色</QualityColors.Change>
+  <QualityColors.Presets>切换保存项</QualityColors.Presets>
+  <QualityColors.Presets.Legacy>重置</QualityColors.Presets.Legacy>
+  <QualityColors.Presets.WoW>魔兽世界</QualityColors.Presets.WoW>
+  <QualityColors.Presets.Default>mod初始</QualityColors.Presets.Default>
+  <QualityColors.Presets.Colorblind>色盲模式</QualityColors.Presets.Colorblind>
+  <QualityColors.Presets.FFXIV>最終幻想14（由Erin提供）</QualityColors.Presets.FFXIV>
+  <QualityColors.Apply>应用</QualityColors.Apply>
+  <QualityColors.Red>红: </QualityColors.Red>
+  <QualityColors.Blue>蓝: </QualityColors.Blue>
+  <QualityColors.Green>绿: </QualityColors.Green>
+  <QualityColors.Preview>预览： </QualityColors.Preview>
+  <QualityColors.Changing>更改{0}</QualityColors.Changing>
+
+</LanguageData>

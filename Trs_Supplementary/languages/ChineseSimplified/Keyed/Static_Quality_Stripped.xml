@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ItemQualityOptions>制作品质选项</ItemQualityOptions>
+
+  <VanillaQuality>原版品质</VanillaQuality>
+  <TheRimWorldDefault>物品品质由默认的 RimWorld 算法确定。</TheRimWorldDefault>
+
+  <StaticQuality>静态品质</StaticQuality>
+  <ItemQualityIs>物品品质完全基于建造者技能水平。</ItemQualityIs>
+
+  <StaticQuality1>静态品质 +/- 1</StaticQuality1>
+  <ItemQualityIs1>物品品质基于建造者技能水平 +/- 1 品质水平。</ItemQualityIs1>
+  <StaticQuality2>静态品质 +/- 2</StaticQuality2>
+  <ItemQualityIs2>物品品质基于建造者技能水平 +/- 2 品质水平。</ItemQualityIs2>
+
+  <CheatQuality>作弊品质</CheatQuality>
+  <CheatQualityIs>物品品质始终是传奇。不需要获得灵感。</CheatQualityIs>
+  <!-- <LegendaryOnlyWithInspiration>传奇物品需要灵感</LegendaryOnlyWithInspiration> -->
+  <LegendaryOnlyWithInspiration>传奇物品是否需要灵感</LegendaryOnlyWithInspiration>
+  <LegendaryWithInspirationEnabled>是否只能通过灵感来创造传奇物品。</LegendaryWithInspirationEnabled>
+
+  <CraftingNotification>制作通知</CraftingNotification>
+  <CraftingEnabled>是否启用大师/传奇作品的制作通知。</CraftingEnabled>
+
+</LanguageData>

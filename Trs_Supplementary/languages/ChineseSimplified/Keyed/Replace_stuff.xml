@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<TD.ReplaceStuff>Replace Stuff</TD.ReplaceStuff>
+	<TD.Replace>替换</TD.Replace>
+	<TD.ReplaceDesc>替换某个东西的材质，例如将木墙换成石墙</TD.ReplaceDesc>
+	<TD.ReplacingTag>(替换中)</TD.ReplacingTag>
+	<TD.ToggleBlueprintOverRock>将蓝图放于山岩上</TD.ToggleBlueprintOverRock>
+	<TD.SettingsNoOverwallCoolers>从构建菜单中隐藏壁挂式冷却器</TD.SettingsNoOverwallCoolers>
+	<TD.SettingsNoNormalCoolers>从建筑菜单中隐藏原版的制冷机和通风孔</TD.SettingsNoNormalCoolers>
+	<TD.SettingsCornerBuildable>允许在角落内部建造或是开采方块</TD.SettingsCornerBuildable>
+	<TD.SettingsCornerBuildableDesc>这有时候会导致奇怪的寻路问题-关闭这个选项也许能修复该问题。</TD.SettingsCornerBuildableDesc>
+	<TD.IncapableOfSmoothing>无法兼容</TD.IncapableOfSmoothing>
+	<TD.FailedStuffBeingReplaced>替换完毕</TD.FailedStuffBeingReplaced>
+	<TD.SettingsPreferredBridge>需要时优先下达的桥接订单：</TD.SettingsPreferredBridge>
+	<TD.SettingsBridgeResources>(第一优先级是你拥有资源的桥梁; 第二优先级是这个列表顺序——拖放重新排序)</TD.SettingsBridgeResources>
+</LanguageData>

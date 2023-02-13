@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- <CR_RaidCompressedMassageEnhanced>Compresses the number of raiders from {0} to {1}, and enhanced the abilities of {3} of them. (Base multiplier: {2}X)</CR_RaidCompressedMassageEnhanced> -->
+	<!-- <CR_RaidCompressedMassageNotEnhanced>The number of raiders has been compressed from {0} to {1}.</CR_RaidCompressedMassageNotEnhanced> -->
+	<CR_RaidCompressedMassageNotEnhanced>袭击者的数量从 {0} 个压缩到 {1} 个，并增强了其中 {3} 个的能力。(基础乘数：{2}X)</CR_RaidCompressedMassageNotEnhanced>
+	<CR_RaidCompressedMassageNotEnhanced>袭击者数量已从{0}个压缩到{1}个</CR_RaidCompressedMassageNotEnhanced>
+
+	<!-- <CR_InfoExcludedDrugs>[Compressed Raid] Infomation: The following drugs will be excluded from the lottely for the "Add Drug Effects" function.\n</CR_InfoExcludedDrugs> -->
+	<!-- <CR_InfoMustNegativeEffectDrugs>[Compressed Raid] Infomation: The following drugs ignore the "Avoid negative effects" setting and always inflict negative effects.\n</CR_InfoMustNegativeEffectDrugs> -->
+	<CR_InfoExcludedDrugs>[Compressed Raid]信息:以下药物将被排除在"添加药物效果"功能的随机事件之外。\n</CR_InfoExcludedDrugs>
+	<CR_InfoMustNegativeEffectDrugs>[Compressed Raid] 信息: 以下药物忽略"避免负面影响"设置，并始终造成负面影响。\n</CR_InfoMustNegativeEffectDrugs>
+
+</LanguageData>

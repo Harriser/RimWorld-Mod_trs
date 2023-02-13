@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EnterHemogenExtractor>进入血原包提取器</EnterHemogenExtractor>
+  <CarryToHemogenExtractor>携带 {1_label} 到血原包提取器</CarryToHemogenExtractor>
+  <CannotCarryToHemogenExtractor>无法携带到血原包提取器</CannotCarryToHemogenExtractor>
+  <RefuelTitle>营养过滤器</RefuelTitle>
+  <RefuelTab>营养</RefuelTab>
+  <Eject>自动弹出:</Eject>
+  <AutoEjected>使用者从血原包提取器中自动弹出，以防止因营养不良而死亡。</AutoEjected>
+
+  <CommandCopyHemogenExtractorSettingsLabel>复制设置</CommandCopyHemogenExtractorSettingsLabel>
+  <CommandCopyHemogenExtractorSettingsDesc>将此血原包提取器设置复制到剪贴板</CommandCopyHemogenExtractorSettingsDesc>
+
+  <CommandPasteHemogenExtractorSettingsLabel>粘贴设置</CommandPasteHemogenExtractorSettingsLabel>
+  <CommandPasteHemogenExtractorSettingsDesc>用之前复制到剪贴板的设置，覆盖此血原包提取器的设置。</CommandPasteHemogenExtractorSettingsDesc>
+</LanguageData>

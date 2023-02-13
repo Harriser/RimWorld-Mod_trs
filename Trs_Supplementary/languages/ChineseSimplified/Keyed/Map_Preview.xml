@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MapPreview.Title>地图预览</MapPreview.Title>
+
+  <!--<MapPreview.Settings.EnableExactPreviewGenerator>使用精确的预览生成器(稍微慢一点，但更准确，并且支持 mod 添加的地图功能)</MapPreview.Settings.EnableExactPreviewGenerator>-->
+  <MapPreview.Settings.EnableMapPreview>启用地图预览</MapPreview.Settings.EnableMapPreview>
+  <MapPreview.Settings.EnableToolbar>启用世界地图工具栏</MapPreview.Settings.EnableToolbar>
+  <MapPreview.Settings.EnableMapReroll>启用地图重置</MapPreview.Settings.EnableMapReroll>
+  <MapPreview.Settings.EnableSeedRerollFeature>地图重置功能已启用</MapPreview.Settings.EnableSeedRerollFeature>
+  <MapPreview.Settings.PreviewWindowSize>预览窗口大小</MapPreview.Settings.PreviewWindowSize>
+  <MapPreview.Settings.EnableTrueTerrainColors>使用真实的地形颜色(启用对模组添加的地形的支持，也适用于 Map Reroll)</MapPreview.Settings.EnableTrueTerrainColors>
+  <MapPreview.Settings.SkipRiverFlowCalc>使用河流生成器优化(更快，但与原版本略有不同)</MapPreview.Settings.SkipRiverFlowCalc>
+  
+  <MapPreview.World.WaitForPreview>当前正在生成地图预览，请稍候继续...</MapPreview.World.WaitForPreview>
+  <MapPreview.World.ShowHidePreview>开关地图预览</MapPreview.World.ShowHidePreview>
+  <MapPreview.World.RerollMapSeed>重置这张地图的种子。</MapPreview.World.RerollMapSeed>
+  <MapPreview.World.ResetMapSeed>撤消重置并将此地图的种子还原为原始种子。</MapPreview.World.ResetMapSeed>
+  <MapPreview.World.RerollWorldSeed>用随机种子生成一个新世界。</MapPreview.World.RerollWorldSeed>
+  <MapPreview.World.OpenSettings>打开地图预览设置。</MapPreview.World.OpenSettings>
+
+  <MapPreview.PreviewGenerationFailed>与您的一个模组发生冲突导致地图预览生成器失败。\n请在 Map Preview 创意工坊页面上报告此问题，以便创建兼容性补丁。\n关闭此消息后，请上传您的日志文件并将该链接包含在错误报告中。</MapPreview.PreviewGenerationFailed>
+
+  <MapPreview.Integration.MapDesigner.OpenSettings>打开地图设计器。</MapPreview.Integration.MapDesigner.OpenSettings>
+</LanguageData>

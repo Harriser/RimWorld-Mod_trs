@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HemogenExtractor.label>血原包提取器</HemogenExtractorBase.label>
+  <HemogenExtractor.description>这是一个血原包提取器。
+  它使用原始版本的休眠仓技术提取用户的血液，同时仍然让他们活着。
+  请记住，在提取后，使用者不会立即恢复血液，因此他们需要一两天的时间来恢复。
+  由于提取器使用原始休眠仓，如果没有额外的营养，它无法满足使用者的需求。
+  提取器具有内置的自动弹出功能，可防止因营养不良而死亡。(如果3天内没有食物和/或能量，使用者将被弹出)</HemogenExtractorBase.description>
+
+</LanguageData>

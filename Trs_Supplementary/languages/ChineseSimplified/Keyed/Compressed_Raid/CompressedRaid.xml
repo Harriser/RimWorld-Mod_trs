@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<CR_SliderInput>通过滚动条修改</CR_SliderInput>
+<CR_TextInput>通过数值修改</CR_TextInput>
+<CR_InitializeValueAll>所有设置</CR_InitializeValueAll>
+<CR_InitializeValueAllReally>所有设置都将被重置，你确定继续吗？</CR_InitializeValueAllReally>
+<CR_InitializeValueAllConfirm>按 "执行" 来重置所有设置。</CR_InitializeValueAllConfirm>
+<CR_InitializeValue>重置 "{0}".</CR_InitializeValue>
+<CR_LoadOldSettingsButton>从旧版本中加载设置</CR_LoadOldSettingsButton>
+<CR_CleanLoadLabel>纯净模式加载设置</CR_CleanLoadLabel>
+<CR_MergeLoadLabel>用合并模式加载设置</CR_MergeLoadLabel>
+<CR_CleanLoadDesc>用旧的设置覆盖所有的配置项。</CR_CleanLoadDesc>
+<CR_MergeLoadDesc>只有那些从旧设置中的默认值改变的设置项目才会被覆盖。</CR_MergeLoadDesc>
+<CR_ButtonExecute>执行</CR_ButtonExecute>
+<CR_InitializeValueAllConfirmAgree>同意</CR_InitializeValueAllConfirmAgree>
+
+<CR_CommonSectionTitle>基础设置</CR_CommonSectionTitle>
+<CR_MainSectionTitle>主要功能: "压缩袭击者"的健康差异增强</CR_MainSectionTitle>
+<!-- 这是用于人物的脚本效果。它是一个单独的逻辑小节点，将效果应用于它所附加的父级，例如疾病、伤害、假肢或任何你想要的东西 - 任何导致与正常状态"不同"的东西。 -->
+<CR_OptionSectionTitle>可启用功能: {0}</CR_OptionSectionTitle>
+<CR_OptionAddBionicsTitle>添加仿生器官</CR_OptionAddBionicsTitle>
+<CR_OptionRefineGearTitle>强化装备品质</CR_OptionRefineGearTitle>
+<CR_OptionAddDrugTitle>添加药物效果</CR_OptionAddDrugTitle>
+<CR_SectionDisableMessage>已设置为禁用</CR_SectionDisableMessage>
+
+<CR_ChanceOfCompressionLabel>"袭击压缩"的概率</CR_ChanceOfCompressionLabel>
+<CR_ChanceOfCompressionDesc>袭击压缩的概率。如果数值小于1，那么只有在概率判断成功的情况下才会执行压缩。(0.01相当于1%)(默认: 1)</CR_ChanceOfCompressionDesc>
+
+<CR_ChanceOfEnhancementLabel>"袭击者增强"的概率</CR_ChanceOfEnhancementLabel>
+<CR_ChanceOfEnhancementDesc>压缩后对袭击者增强的概率。(0.01相当于1%)如果该值小于1，只有当概率判断成功时才会执行增强。这个概率判断是针对每个袭击者单独进行的。</CR_ChanceOfEnhancementDesc>
+<CR_CalcBaseMultByEnhancedLabel>根据被加强的人数计算"基本乘数"</CR_CalcBaseMultByEnhancedLabel>
+<CR_CalcBaseMultByEnhancedDesc>打开/关闭根据被加强的人数计算"基本乘数"。(默认: 打开)</CR_CalcBaseMultByEnhancedDesc>
+
+<CR_AllowTypesLabel>压缩袭击范围</CR_AllowTypesLabel>
+
+<CR_AllowMechanoidsLabel>机械族</CR_AllowMechanoidsLabel>
+<CR_AllowMechanoidsDesc>切换是否为 机械族 启用袭击压缩。(默认: 打开)</CR_AllowMechanoidsDesc>
+<CR_AllowInsectoidsLabel>虫族</CR_AllowInsectoidsLabel>
+<CR_AllowInsectoidsDesc>切换是否为 虫族 启用袭击压缩。(默认: 打开)</CR_AllowInsectoidsDesc>
+<CR_AllowManhuntersLabel>猎杀人类</CR_AllowManhuntersLabel>
+<CR_AllowManhuntersDesc>切换是否为 猎杀人类 启用袭击压缩。(默认: 打开)</CR_AllowManhuntersDesc>
+
+<CR_AllowRaidFriendlyLabel>友军</CR_AllowRaidFriendlyLabel>
+<CR_AllowRaidFriendlyDesc>切换是否为 友军 启用袭击压缩。(默认: 打开)</CR_AllowRaidFriendlyDesc>
+
+<CR_MaxRaidPawnsCountLabel>袭击人数最大值</CR_MaxRaidPawnsCountLabel>
+<CR_MaxRaidPawnsCountDesc>设置"袭击人数的最大值"。如果设置为0，将进行正常的袭击。(默认: 100)</CR_MaxRaidPawnsCountDesc>
+
+<CR_GainFactorMultLabel>基础增强系数</CR_GainFactorMultLabel>
+<CR_GainFactorMultDesc>设置"基础增强系数"。如果设置为0，该增强系数被禁用。(默认: 1)</CR_GainFactorMultDesc>
+
+<CR_GainFactorMultRaidFriendlyLabel>基础增强系数(友军)</CR_GainFactorMultRaidFriendlyLabel>
+<CR_GainFactorMultRaidFriendlyDesc>设置"基础增强系数"(友军)。如果设置为0，该增强系数被禁用。(默认: 1)(Default: 1)</CR_GainFactorMultRaidFriendlyDesc>
+
+<CR_DisplayMessageLabel>显示信息</CR_DisplayMessageLabel>
+<CR_DisplayMessageDesc>切换显示压缩结果信息的开/关。(默认: ON)</CR_DisplayMessageDesc>
+
+<CR_Mult>乘数</CR_Mult>
+<CR_Max>最大</CR_Max>
+<CR_PainLabel>疼痛抗性</CR_PainLabel>
+<CR_ArmorRating_BluntLabel>护甲-钝器</CR_ArmorRating_BluntLabel>
+<CR_ArmorRating_SharpLabel>护甲-锐器</CR_ArmorRating_SharpLabel>
+<CR_ArmorRating_HeatLabel>护甲-热能</CR_ArmorRating_HeatLabel>
+<CR_MeleeDodgeChanceLabel>近战闪避率</CR_MeleeDodgeChanceLabel>
+<CR_MeleeHitChanceLabel>近战命中率</CR_MeleeHitChanceLabel>
+<CR_MoveSpeedLabel>移动速度</CR_MoveSpeedLabel>
+<CR_ShootingAccuracyPawnLabel>射击命中率</CR_ShootingAccuracyPawnLabel>
+<CR_PawnTrapSpringChanceLabel>陷阱触发率</CR_PawnTrapSpringChanceLabel>
+
+<CR_CapacitySightLabel>视力</CR_CapacitySightLabel>
+<CR_CapacityMovingLabel>移动能力</CR_CapacityMovingLabel>
+<CR_CapacityHearingLabel>听力</CR_CapacityHearingLabel>
+<CR_CapacityManipulationLabel>操纵能力</CR_CapacityManipulationLabel>
+<CR_CapacityMetabolismLabel>新陈代谢</CR_CapacityMetabolismLabel>
+<CR_CapacityConsciousnessLabel>意识</CR_CapacityConsciousnessLabel>
+<CR_CapacityBloodFiltrationLabel>血液过滤</CR_CapacityBloodFiltrationLabel>
+<CR_CapacityBloodPumpingLabel>血液输送</CR_CapacityBloodPumpingLabel>
+<CR_CapacityBreathingLabel>呼吸能力</CR_CapacityBreathingLabel>
+
+<CR_GainFactorMultPainDesc>设置"抗痛性增强倍率"。设置为0时禁用。(默认: 0.25)</CR_GainFactorMultPainDesc>
+<CR_GainFactorMultArmorRating_BluntDesc>设置"护甲-钝器增强倍率"。设置为0时禁用。(默认: 0.25)</CR_GainFactorMultArmorRating_BluntDesc>
+<CR_GainFactorMultArmorRating_SharpDesc>设置"护甲-锐器增强倍率"。设置为0时禁用。(默认: 0.25)</CR_GainFactorMultArmorRating_SharpDesc>
+<CR_GainFactorMultArmorRating_HeatDesc>设置"护甲-热能增强倍率"。设置为0时禁用。(默认: 0.25)</CR_GainFactorMultArmorRating_HeatDesc>
+<CR_GainFactorMultMeleeDodgeChanceDesc>设置"近战闪避率增强倍率"。设置为0时禁用。(默认: 1)</CR_GainFactorMultMeleeDodgeChanceDesc>
+<CR_GainFactorMultMeleeHitChanceDesc>设置"近战命中率增强倍率"。设置为0时禁用。(默认: 1)</CR_GainFactorMultMeleeHitChanceDesc>
+<CR_GainFactorMultMoveSpeedDesc>设置"移动速度增强倍率"。设置为0时禁用。(默认: 0.5)</CR_GainFactorMultMoveSpeedDesc>
+<CR_GainFactorMultShootingAccuracyPawnDesc>设置"射击命中率增强倍率"。设置为0时禁用。(默认: 0.25)</CR_GainFactorMultShootingAccuracyPawnDesc>
+<CR_GainFactorMultPawnTrapSpringChanceDesc>设置"陷阱躲避增强倍率"。设置为0时禁用。(默认: 0.5)</CR_GainFactorMultPawnTrapSpringChanceDesc>
+<CR_GainFactorMaxPainDesc>设置"抗痛性增强最大值"。设置为0时禁用。(默认: 1)</CR_GainFactorMaxPainDesc>
+<CR_GainFactorMaxArmorRating_BluntDesc>设置"护甲-钝器增强最大值"。设置为0时禁用。(默认: 1)</CR_GainFactorMaxArmorRating_BluntDesc>
+<CR_GainFactorMaxArmorRating_SharpDesc>设置"护甲-锐器增强最大值"。设置为0时禁用。(默认: 1)</CR_GainFactorMaxArmorRating_SharpDesc>
+<CR_GainFactorMaxArmorRating_HeatDesc>设置"护甲-热能最大值"。设置为0时禁用。(默认: 1)</CR_GainFactorMaxArmorRating_HeatDesc>
+<CR_GainFactorMaxMeleeDodgeChanceDesc>设置"近战闪避率增强最大值"。设置为0时禁用。(默认: 20)</CR_GainFactorMaxMeleeDodgeChanceDesc>
+<CR_GainFactorMaxMeleeHitChanceDesc>设置"近战命中率增强最大值"。设置为0时禁用。(默认: 20)</CR_GainFactorMaxMeleeHitChanceDesc>
+<CR_GainFactorMaxMoveSpeedDesc>设置"移动速度增强最大值"。设置为0时禁用。(默认值: 20)</CR_GainFactorMaxMoveSpeedDesc>
+<CR_GainFactorMaxShootingAccuracyPawnDesc>设置"射击命中率增强最大值"。设置为0时禁用。(默认: 20)</CR_GainFactorMaxShootingAccuracyPawnDesc>
+<CR_GainFactorMaxPawnTrapSpringChanceDesc>设置"陷阱躲避增强最大值"。设置为0时禁用。(默认: 1)</CR_GainFactorMaxPawnTrapSpringChanceDesc>
+
+<CR_GainFactorMultCapacitySightDesc>设置"视力增强倍率"。设置为0时禁用。(默认: 0.5)</CR_GainFactorMultCapacitySightDesc>
+<CR_GainFactorMultCapacityMovingDesc>设置"移动增强倍率"。设置为0时禁用。(默认: 0.5)</CR_GainFactorMultCapacityMovingDesc>
+<CR_GainFactorMultCapacityHearingDesc>设置"听觉增强倍率"。设置为0时禁用。(默认: 0.25)</CR_GainFactorMultCapacityHearingDesc>
+<CR_GainFactorMultCapacityManipulationDesc>设置"操纵能力增强倍率"。设置为0时禁用。(默认: 0.5)</CR_GainFactorMultCapacityManipulationDesc>
+<CR_GainFactorMultCapacityMetabolismDesc>设置"新陈代谢增强倍率"。设置为0时禁用。(默认: 0.25)</CR_GainFactorMultCapacityMetabolismDesc>
+<CR_GainFactorMultCapacityConsciousnessDesc>设置"意识增强倍率"。如果设置为0，这个增强项目就被禁用。(默认: 0.5)</CR_GainFactorMultCapacityConsciousnessDesc>
+<CR_GainFactorMultCapacityBloodFiltrationDesc>设置"血液过滤增强倍率"。设置为0时禁用。(默认: 0.25)</CR_GainFactorMultCapacityBloodFiltrationDesc>
+<CR_GainFactorMultCapacityBloodPumpingDesc>设置"血液输送增强倍率"。设置为0时禁用。(默认: 0.25)</CR_GainFactorMultCapacityBloodPumpingDesc>
+<CR_GainFactorMultCapacityBreathingDesc>设置"呼吸能力增强倍率"。设置为0时禁用。(默认: 0.25)</CR_GainFactorMultCapacityBreathingDesc>
+<CR_GainFactorMaxCapacitySightDesc>设置"视力增强最大值"。设置为0时禁用。(默认: 5)</CR_GainFactorMaxCapacitySightDesc>
+<CR_GainFactorMaxCapacityMovingDesc>设置"移动增强最大值"。设置为0时禁用。(默认: 5)</CR_GainFactorMaxCapacityMovingDesc>
+<CR_GainFactorMaxCapacityHearingDesc>设置"听觉增强最大值"。设置为0时禁用。(默认: 5)</CR_GainFactorMaxCapacityHearingDesc>
+<CR_GainFactorMaxCapacityManipulationDesc>设置"操纵能力增强最大值"。设置为0时禁用。(默认: 5)</CR_GainFactorMaxCapacityManipulationDesc>
+<CR_GainFactorMaxCapacityMetabolismDesc>设置"新陈代谢增强最大值"。设置为0时禁用。(默认: 5)</CR_GainFactorMaxCapacityMetabolismDesc>
+<CR_GainFactorMaxCapacityConsciousnessDesc>设置"意识增强最大值"。设置为0时禁用。(默认: 5)</CR_GainFactorMaxCapacityConsciousnessDesc>
+<CR_GainFactorMaxCapacityBloodFiltrationDesc>设置"血液过滤增强最大值"。设置为0时禁用。(默认: 5)</CR_GainFactorMaxCapacityBloodFiltrationDesc>
+<CR_GainFactorMaxCapacityBloodPumpingDesc>设置"血液输送增强最大值"。设置为0时禁用。(默认: 5)</CR_GainFactorMaxCapacityBloodPumpingDesc>
+<CR_GainFactorMaxCapacityBreathingDesc>设置"呼吸能力增强最大值"。设置为0时禁用。(默认: 5)</CR_GainFactorMaxCapacityBreathingDesc>
+
+<CR_AddBionicsChanceLabel>额外仿生概率</CR_AddBionicsChanceLabel>
+<CR_AddBionicsChanceFactorDesc>设置仿生器官添加的概率。\n设置为0会使 "添加仿生器官 "失效。(默认: 2)</CR_AddBionicsChanceFactorDesc>
+
+<CR_AddBionicsChanceMaxDesc>设置仿生器官添加的概率的最大值。\n设置为0将禁用 "添加仿生器官"。(默认值: 0.9)</CR_AddBionicsChanceMaxDesc>
+
+<CR_AddBionicsChanceNegativeCurveLabel>添加额外仿生器官的概率降低</CR_AddBionicsChanceNegativeCurveLabel>
+<CR_AddBionicsChanceNegativeCurveDesc>添加一个仿生器官后，再次添加仿生器官的概率下降百分比。(默认: 0.5)</CR_AddBionicsChanceNegativeCurveDesc>
+
+<CR_AddBionicsMaxNumberLabel>额外仿生器官的最大数量</CR_AddBionicsMaxNumberLabel>
+<CR_AddBionicsMaxNumberDesc>设置单个袭击者可添加的仿生器官的最大数量。(默认: 4)</CR_AddBionicsMaxNumberDesc>
+
+<CR_AllowedByGTTechLevelLabel>允许增加仿生器官的科技等级</CR_AllowedByGTTechLevelLabel>
+<CR_AllowedByGTTechLevelDesc>设置允许增加仿生器官的袭击者的科技等级。(默认: 0)\n设置值如下.\n0:所有\n1:茹毛饮血以上 \n2:石器时代以上 \n3:中世纪以上\n4:工业时代以上\n5:太空时代以上\n6:极致时代以上\n7:超凡时代以上。</CR_AllowedByGTTechLevelDesc>
+
+<CR_NoTechLevelLimmitLabel>所有科技</CR_NoTechLevelLimmitLabel>
+
+<CR_RefineGearChanceLabel>强化装备品质的概率</CR_RefineGearChanceLabel>
+
+<CR_RefineGearChanceFactorDesc>设置强化装备品质的概率。\n设置为0将禁用 "强化装备品质"。(默认: 1)</CR_RefineGearChanceFactorDesc>
+
+<CR_RefineGearChanceMaxDesc>设置强化装备品质的概率的最大值。\n设置为 0 将禁用"强化装备品质"。(默认: 0.9)</CR_RefineGearChanceMaxDesc>
+
+<CR_RefineGearChanceNegativeCurveLabel>强化多个装备品质的概率降低</CR_RefineGearChanceNegativeCurveLabel>
+<CR_RefineGearChanceNegativeCurveDesc>强化一个装备后，再次强化其他装备的概率下降百分比。(默认: 0.5)</CR_RefineGearChanceNegativeCurveDesc>
+
+<CR_QualityUpMaxNumLabel>提升最高次数</CR_QualityUpMaxNumLabel>
+<CR_QualityUpMaxNumDesc>设置单个袭击者的装备质量提升的最高次数。\n这是强化装备品质的最高次数(默认: 4)</CR_QualityUpMaxNumDesc>
+
+<CR_OptionSetBiocodeLabel>添加"生物编码"</CR_OptionSetBiocodeLabel>
+<CR_OptionSetBiocodeDesc>打开/关闭在成功强化武器时授予 "生物编码 "的功能(默认: 关闭)。</CR_OptionSetBiocodeDesc>
+
+<CR_OptionAddDeathAcidifierLabel>添加"质溶器"</CR_OptionAddDeathAcidifierLabel>
+<CR_OptionAddDeathAcidifierDesc>打开/关闭在成功强化服装时授予 "质溶器 "的功能(默认: 关闭)。</CR_OptionAddDeathAcidifierDesc>
+
+<CR_AddDrugChanceLabel>添加药物效果概率</CR_AddDrugChanceLabel>
+
+<CR_AddDrugChanceFactorDesc>设置添加药物效果的概率。\n设置为0时，将禁用"添加药物效果 "。(默认: 1)</CR_AddDrugChanceFactorDesc>
+
+<CR_AddDrugChanceMaxDesc>设置添加药物效果概率的最大值。\n设置为0时，将禁用 "添加药物效果"。(默认: 0.9)</CR_AddDrugChanceMaxDesc>
+
+<CR_AddDrugChanceNegativeCurveLabel>添加额外药物效果的概率降低</CR_AddDrugChanceNegativeCurveLabel>
+<CR_AddDrugChanceNegativeCurveDesc>添加一个药物效果后，再次添加药物效果的概率下降百分比 (默认: 0.5)</CR_AddDrugChanceNegativeCurveDesc>
+<CR_AddDrugMaxNumberLabel>额外药物效果的最大数量</CR_AddDrugMaxNumberLabel>
+<CR_AddDrugMaxNumberDesc>设置可以添加到一个袭击者身上的最大药物数量。\n如果这个值增加，袭击者会因依赖性或药物过量而产生过多的负面影响，所以考虑启用 "避免不良反应"。 (默认: 1)</CR_AddDrugMaxNumberDesc>
+
+<CR_GiveOnlyActiveIngredientsLabel>避免不良反应</CR_GiveOnlyActiveIngredientsLabel>
+<CR_GiveOnlyActiveIngredientsDesc>打开该功能，以避免在出现额外的药物效果时造成药物伤害。/n如果你想避免因依赖性或药物过量而产生的负面影响，请将此设置打开。 然而，只有 "魔鬼素"忽略了这一设置并导致依赖性。 此外，列入药效的副作用不被视为药害，所以其副作用无法避免。 (默认:打开)</CR_GiveOnlyActiveIngredientsDesc>
+
+<CR_IgnoreNonVolatilityDrugsLabel>永久性药物的不良影响</CR_IgnoreNonVolatilityDrugsLabel>
+<CR_IgnoreNonVolatilityDrugsDesc>打开/关闭永久性影响的药物是否会产生的负面影响，而不考虑"避免不良反应"的设置。/n魔鬼素无视这些设置，总是对袭击者造成负面影响。 (默认: 打开)</CR_IgnoreNonVolatilityDrugsDesc>
+
+<CR_WithoutDrugLabel>按药物类别排除</CR_WithoutDrugLabel>
+
+<CR_WithoutSocialDrugLabel>社交</CR_WithoutSocialDrugLabel>
+<CR_WithoutSocialDrugDesc>打开/关闭将社会类药物排除在"添加药物效果"之外的功能。/n社交类药物包括"啤酒"、"精神茶"等(默认:关闭)</CR_WithoutSocialDrugDesc>
+
+<CR_WithoutHardDrugLabel>战斗</CR_WithoutHardDrugLabel>
+<CR_WithoutHardDrugDesc>打开/关闭将战斗类药物排除在"添加药物效果"之外的功能。/n战斗类药物包括"呀呦粉"、"活力水"等(默认:关闭)</CR_WithoutHardDrugDesc>
+
+<CR_WithoutMedicalDrugLabel>医药</CR_WithoutMedicalDrugLabel>
+<CR_WithoutMedicalDrugDesc>打开/关闭将排除医疗类排除在"添加药物效果"之外的功能。/n医疗类药物包括"魔鬼素"等(默认:关闭)</CR_WithoutMedicalDrugDesc>
+
+<CR_WithoutNonVolatilityDrugLabel>永久的</CR_WithoutNonVolatilityDrugLabel>
+<CR_WithoutNonVolatilityDrugDesc>打开/关闭将永久药物排除在"添加药物效果"之外的功能。/n如果你想排除具有永久性影响的药物，如"魔鬼素"，请打开这个开关。(默认值:关闭)</CR_WithoutNonVolatilityDrugDesc>
+
+<CR_LimitationsByTechLevelLabel>技术水平的限制</CR_LimitationsByTechLevelLabel>
+<CR_LimitationsByTechLevelDesc>添加药物效果将会考虑到科技等级，无法为袭击者添加超出科技等级限制的药物。(默认: 打开)</CR_LimitationsByTechLevelDesc>
+
+<CR_TechLevelAllowableRangeLabel>科技等级范围</CR_TechLevelAllowableRangeLabel>
+
+<CR_TechLevelUpperRangeLabel>上限</CR_TechLevelUpperRangeLabel>
+<CR_TechLevelUpperRangeDesc>将覆盖范围扩大到科技等级高于袭击者派系科技等级的药物，以这个数字为准。 (默认: 2)</CR_TechLevelUpperRangeDesc>
+
+<CR_TechLevelLowerRangeLabel>下限</CR_TechLevelLowerRangeLabel>
+<CR_TechLevelLowerRangeDesc>将覆盖范围扩大到科技等级低于袭击者派系科技等级的药物，以这个数字为准。 (默认: 2)</CR_TechLevelLowerRangeDesc>
+
+</LanguageData>

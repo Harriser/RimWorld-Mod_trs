@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MURWallLight>壁灯</MURWallLight>
+  <MURWallLight_LightRadName>光源半径</MURWallLight_LightRadName>
+  <MURWallLight_EnableWallLightName>启用壁灯</MURWallLight_EnableWallLightName>
+  <MURWallLight_EnableWallLightDesc>如果选中此选项，则壁灯及其颜色变体将可用于构建。</MURWallLight_EnableWallLightDesc>
+  <MURWallLight_LightRadDesc>光源照亮半径. 默认8</MURWallLight_LightRadDesc>
+  <MURWallLight_SteelCostName>制造成本: 钢铁</MURWallLight_SteelCostName>
+  <MURWallLight_SteelCostDesc>制造所需的钢铁. 默认5</MURWallLight_SteelCostDesc>
+  <MURWallLight_PowerCostName>所需电力</MURWallLight_PowerCostName>
+  <MURWallLight_PowerCostDesc>壁灯消耗的功率. 默认10</MURWallLight_PowerCostDesc>
+  <MURWallLight_ShowRadiusName>显示照明区域(试验性)</MURWallLight_ShowRadiusName>
+  <MURWallLight_ShowRadiusDesc>当放置墙壁灯时，将显示被光线照亮的大致区域，以及当前照明的房间区域(超过30%的光线)。</MURWallLight_ShowRadiusDesc>
+  <MURWallLight_ShowFacingName>显示朝向</MURWallLight_ShowFacingName>
+  <MURWallLight_ShowFacingDesc>在壁灯的名称上显示灯光所面对的方向(N、S、W、E)。\n需要重启后生效。</MURWallLight_ShowFacingDesc>
+  <MURWallLight_TradeableLightsName>可交易的壁灯</MURWallLight_TradeableLightsName>
+  <MURWallLight_TradeableLightsDesc>使壁灯可以交易。</MURWallLight_TradeableLightsDesc>
+
+  <MURWallLight_DontRecolorGraphicName>不要为灯光重新着色</MURWallLight_DontRecolorGraphicName>
+  <MURWallLight_DontRecolorGraphicDesc>壁灯的灯光在打开时始终为白色，无论它发出的光是什么颜色。</MURWallLight_DontRecolorGraphicDesc>
+
+  <MURWallLight_ExtraColorsName>扩展颜色</MURWallLight_ExtraColorsName>
+  <MURWallLight_ExtraColorsDesc>通过开关启用扩展颜色，添加浅色：黄色、洋红、蓝色、玫瑰色、紫罗兰色、蔚蓝、新绿色、黄绿色和橙色。</MURWallLight_ExtraColorsDesc>
+
+  <MURWallLight_WarningNeedWall>必须放在墙上。</MURWallLight_WarningNeedWall>
+  <MURWallLight_WarningBlocked>必须放置在面向可访问的区域的墙壁上。</MURWallLight_WarningBlocked>
+
+  <MURWallLight_WarningBoth>必须放置在墙上，面对一块可以通过的地砖。</MURWallLight_WarningBoth>
+  <MURWallLight_LightAlreadyHere>这面墙已经有一个朝向这个方向的壁灯。</MURWallLight_LightAlreadyHere>
+
+  <MURWallLight_AlertReload>请保存游戏并重新启动，以使更改生效。</MURWallLight_AlertReload>
+  <MURWallLight_AlertUpdate>从旧版壁灯更新。请让灯再亮一会儿。</MURWallLight_AlertUpdate>
+  <MURWallLight_AlertRestart>请重新启动Rimworld以使更改生效。</MURWallLight_AlertRestart>
+
+  <MURWallLight_DestroyedBlocked>壁灯因建筑被破坏而毁坏了。</MURWallLight_DestroyedBlocked>
+  <MURWallLight_DestroyedWall>壁灯因墙体被破坏而毁坏了。</MURWallLight_DestroyedWall>
+
+  <MURWallLight_TagNorth>N</MURWallLight_TagNorth>
+  <MURWallLight_TagSouth>S</MURWallLight_TagSouth>
+  <MURWallLight_TagWest>W</MURWallLight_TagWest>
+  <MURWallLight_TagEast>E</MURWallLight_TagEast>
+
+  <MURWallLight_EnableSunName>启用日光灯</MURWallLight_EnableSunName>
+  <MURWallLight_EnableSunDesc>如果选中此选项，则墙日光灯将可用于构建。</MURWallLight_EnableSunDesc>
+  <MURWallLight_SunLightRadName>光源半径</MURWallLight_SunLightRadName>
+  <MURWallLight_SunLightRadDesc>光源照亮半径. 默认: 5</MURWallLight_SunLightRadDesc>
+  <MURWallLight_SunSteelCostName>制造成本:钢铁</MURWallLight_SunSteelCostName>
+  <MURWallLight_SunSteelCostDesc>制造所需的钢铁. 默认: 10</MURWallLight_SunSteelCostDesc>
+  <MURWallLight_SunPowerCostName>所需电力</MURWallLight_SunPowerCostName>
+  <MURWallLight_SunPowerCostDesc>日光灯消耗的功率. 默认: 600</MURWallLight_SunPowerCostDesc>
+  <MURWallLight_DisableRestName>停用休眠期</MURWallLight_DisableRestName>
+  <MURWallLight_DisableRestDesc>如果启用，日光灯将不会在植物休眠期关闭。</MURWallLight_DisableRestDesc>
+  <MURWallLight_WhiteModeName>白色模式</MURWallLight_WhiteModeName>
+  <MURWallLight_WhiteModeDesc>将太阳光的冷紫色，替换为柔和的白色。</MURWallLight_WhiteModeDesc>
+  <MURWallLight_DarklightName>启用微光</MURWallLight_DarklightName>
+  <MURWallLight_DarklightDesc>启用墙壁微光的构造。</MURWallLight_DarklightDesc>
+</LanguageData>

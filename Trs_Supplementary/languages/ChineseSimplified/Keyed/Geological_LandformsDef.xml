@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Max landform search radius on world map -->
+  <GeologicalLandforms.Settings.MaxLandformSearchRadius>大地图的最大地形搜索半径</GeologicalLandforms.Settings.MaxLandformSearchRadius>
+  <!-- EN: Enable map exit pathfinding optimization -->
+  <GeologicalLandforms.Settings.EnableCellFinderOptimization>启用单位准备离开地图时的寻路逻辑优化(适用于那些边缘出口特别狭窄的地图)</GeologicalLandforms.Settings.EnableCellFinderOptimization>
+  <!-- EN: Scale landforms with map size -->
+  <GeologicalLandforms.Settings.EnableLandformScaling>地形规模将依据地图尺寸发生些许变动</GeologicalLandforms.Settings.EnableLandformScaling>
+  <!-- EN: Enable god mode (allows placing landforms manually) -->
+  <GeologicalLandforms.Settings.EnableGodMode>启用开发者模式(可以手动编辑地形)</GeologicalLandforms.Settings.EnableGodMode>
+  <!-- EN: [Dev Mode] Show world tile debug info -->
+  <GeologicalLandforms.Settings.ShowWorldTileDebugInfo>[开发者模式]显示大地图单元格的debug信息</GeologicalLandforms.Settings.ShowWorldTileDebugInfo>
+  <!-- EN: [Dev Mode] Ignore world tile requirements (unsafe) -->
+  <GeologicalLandforms.Settings.IgnoreWorldTileReqInGodMode>[开发者模式]忽略大地图单元格的各种地形生成需求(慎用)</GeologicalLandforms.Settings.IgnoreWorldTileReqInGodMode>
+  <!-- EN: Open landform editor -->
+  <GeologicalLandforms.Settings.OpenEditor>打开地形编辑器</GeologicalLandforms.Settings.OpenEditor>
+  <!-- EN: Reset everything to default -->
+  <GeologicalLandforms.Settings.ResetAll>将所有地形模板的各项数据重置为默认状态</GeologicalLandforms.Settings.ResetAll>
+  <!-- EN: Open custom landform data directory -->
+  <GeologicalLandforms.Settings.OpenDataDir>打开存有自定义地形XML文件的文件夹</GeologicalLandforms.Settings.OpenDataDir>
+  <!-- EN: Are you sure you want to fully reset the settings for this mod, including all landform configs? This will also unrecoverably delete ALL custom landforms you created! -->
+  <GeologicalLandforms.Settings.ConfirmResetAll>你真的想要将此mod所有的地形模板完全重置吗？你之前所创建的自定义地形也将全部消失！</GeologicalLandforms.Settings.ConfirmResetAll>
+
+  <!-- EN: With the latest update of Geological Landforms a new landform editor was added, replacing the old one. This means landforms previously created or modified with the old editor will no longer be loaded by this version of the mod. The new editor can be accessed from the mod settings. -->
+  <GeologicalLandforms.LandformManager.LegacyConfigWarning>自上次推送的更新后，Geological Landforms添加了一个新的地形编辑器，而旧有的则被完全替换了。之前用老编辑器创建或改动的地形将无法在此版本上加载。你可以在mod设置中查看新的编辑器。</GeologicalLandforms.LandformManager.LegacyConfigWarning>
+  <!-- EN: There are new versions available for some landforms that you previously modified. Would you like to get the new versions, or keep the old modified ones?\n\nAffected landforms: -->
+  <GeologicalLandforms.LandformManager.LandformUpgrade>你曾改动编辑过的某些地形现在有了新的版本。你是想要加载新的，还是保留旧有的？\n\n受到影响的地形：</GeologicalLandforms.LandformManager.LandformUpgrade>
+  <!-- EN: Replace with new data -->
+  <GeologicalLandforms.LandformManager.LandformUpgradeYes>用新的数据覆盖</GeologicalLandforms.LandformManager.LandformUpgradeYes>
+  <!-- EN: Keep old data -->
+  <GeologicalLandforms.LandformManager.LandformUpgradeNo>保留旧有的数据</GeologicalLandforms.LandformManager.LandformUpgradeNo>
+  
+  <!-- EN: Open -->
+  <GeologicalLandforms.Editor.Open>打开</GeologicalLandforms.Editor.Open>
+  <!-- EN: Select landform to edit -->
+  <GeologicalLandforms.Editor.Open.Tooltip>选择需要编辑的地形</GeologicalLandforms.Editor.Open.Tooltip>
+  <!-- EN: Reset -->
+  <GeologicalLandforms.Editor.Reset>重设</GeologicalLandforms.Editor.Reset>
+  <!-- EN: Reset config for this landform to default -->
+  <GeologicalLandforms.Editor.Reset.Tooltip>将此地形的配置重设</GeologicalLandforms.Editor.Reset.Tooltip>
+  <!-- EN: Copy -->
+  <GeologicalLandforms.Editor.Copy>复制</GeologicalLandforms.Editor.Copy>
+  <!-- EN: Create a new custom landform (with selected one as template) -->
+  <GeologicalLandforms.Editor.Copy.Tooltip>创建新的自定义地形(需要选择一个现有的作为模板)</GeologicalLandforms.Editor.Copy.Tooltip>
+  <!-- EN: Delete -->
+  <GeologicalLandforms.Editor.Delete>删除</GeologicalLandforms.Editor.Delete>
+  <!-- EN: Delete selected custom landform -->
+  <GeologicalLandforms.Editor.Delete.Tooltip>删除选择的自定义地形</GeologicalLandforms.Editor.Delete.Tooltip>
+  <!-- EN: Are you sure you want to reset the config for the selected landform to default? -->
+  <GeologicalLandforms.Editor.ConfirmReset>你真的想要将当前正在编辑的自定义地形数据重设为默认状态吗？</GeologicalLandforms.Editor.ConfirmReset>
+  <!-- EN: Are you sure you want to delete the selected custom landform? It will be gone forever! -->
+  <GeologicalLandforms.Editor.ConfirmDelete>你真的想要将当前正在编辑的自定义地形删除吗？这项操作将无法撤销！</GeologicalLandforms.Editor.ConfirmDelete>
+  
+  <!-- EN: Landform -->
+  <GeologicalLandforms.WorldMap.Landform>地形</GeologicalLandforms.WorldMap.Landform>
+  <!-- EN: Bordering biomes -->
+  <GeologicalLandforms.WorldMap.BorderingBiomes>毗邻的生态群落</GeologicalLandforms.WorldMap.BorderingBiomes>
+  <!-- EN: Topology -->
+  <GeologicalLandforms.WorldMap.Topology>特殊结构</GeologicalLandforms.WorldMap.Topology>
+  <!-- EN: Topology direction -->
+  <GeologicalLandforms.WorldMap.TopologyDirection>特殊结构方位</GeologicalLandforms.WorldMap.TopologyDirection>
+  <!-- EN: Swampiness -->
+  <GeologicalLandforms.WorldMap.Swampiness>沼泽</GeologicalLandforms.WorldMap.Swampiness>
+  <!-- EN: River width -->
+  <GeologicalLandforms.WorldMap.RiverWidth>河流宽度</GeologicalLandforms.WorldMap.RiverWidth>
+  <!-- EN: River angle -->
+  <GeologicalLandforms.WorldMap.RiverAngle>河流角度</GeologicalLandforms.WorldMap.RiverAngle>
+  <!-- EN: Main road multiplier -->
+  <GeologicalLandforms.WorldMap.MainRoadMultiplier>主要道路乘数</GeologicalLandforms.WorldMap.MainRoadMultiplier>
+  <!-- EN: Main road angle -->
+  <GeologicalLandforms.WorldMap.MainRoadAngle>主要道路角度</GeologicalLandforms.WorldMap.MainRoadAngle>
+  <!-- EN: Select landform -->
+  <GeologicalLandforms.WorldMap.SelectLandform>选择地形</GeologicalLandforms.WorldMap.SelectLandform>
+  <!-- EN: Search for landform nearby -->
+  <GeologicalLandforms.WorldMap.FindLandform>搜索附近的指定地形</GeologicalLandforms.WorldMap.FindLandform>
+  <!-- EN: Any -->
+  <GeologicalLandforms.WorldMap.FindLandformAny>任意</GeologicalLandforms.WorldMap.FindLandformAny>
+  <!-- EN: Any (POI) -->
+  <GeologicalLandforms.WorldMap.FindLandformAnyPOI>任意(POI)</GeologicalLandforms.WorldMap.FindLandformAnyPOI>
+  <!-- EN: Found landform, distance from starting point:  -->
+  <GeologicalLandforms.WorldMap.FindLandformSuccess>已找到指定地形，距起始点的距离为：</GeologicalLandforms.WorldMap.FindLandformSuccess>
+  <!-- EN: Could not find the landform within max allowed distance (can be changed in mod settings). Configured max distance:  -->
+  <GeologicalLandforms.WorldMap.FindLandformFail>在允许的最大搜索半径内找不到指定地形(你可以在Mod选项中进行修改)。设置的最大搜索半径为：</GeologicalLandforms.WorldMap.FindLandformFail>
+  <!-- EN: Set landform override (god mode) -->
+  <GeologicalLandforms.WorldMap.SetLandform>编辑当前单元格的地形(开发者模式)</GeologicalLandforms.WorldMap.SetLandform>
+  <!-- EN: Auto -->
+  <GeologicalLandforms.WorldMap.SetLandformAuto>自动</GeologicalLandforms.WorldMap.SetLandformAuto>
+  
+  <!-- EN: Id -->
+  <GeologicalLandforms.Settings.Landform.Id>Id</GeologicalLandforms.Settings.Landform.Id>
+  <!-- EN: Display name -->
+  <GeologicalLandforms.Settings.Landform.DisplayName>名字</GeologicalLandforms.Settings.Landform.DisplayName>
+  <!-- EN: Show direction -->
+  <GeologicalLandforms.Settings.Landform.DisplayNameHasDirection>名字</GeologicalLandforms.Settings.Landform.DisplayNameHasDirection>
+  <!-- EN: Topology -->
+  <GeologicalLandforms.Settings.Landform.Topology>特殊结构</GeologicalLandforms.Settings.Landform.Topology>
+  <!-- EN: Commonness -->
+  <GeologicalLandforms.Settings.Landform.Commonness>共通值</GeologicalLandforms.Settings.Landform.Commonness>
+  <!-- EN: Hilliness requirement -->
+  <GeologicalLandforms.Settings.Landform.HillinessRequirement>山体需求</GeologicalLandforms.Settings.Landform.HillinessRequirement>
+  <!-- EN: Road requirement -->
+  <GeologicalLandforms.Settings.Landform.RoadRequirement>道路需求</GeologicalLandforms.Settings.Landform.RoadRequirement>
+  <!-- EN: River requirement -->
+  <GeologicalLandforms.Settings.Landform.RiverRequirement>河流需求</GeologicalLandforms.Settings.Landform.RiverRequirement>
+  <!-- EN: Elevation requirement -->
+  <GeologicalLandforms.Settings.Landform.ElevationRequirement>海拔需求</GeologicalLandforms.Settings.Landform.ElevationRequirement>
+  <!-- EN: Average temperature requirement -->
+  <GeologicalLandforms.Settings.Landform.AvgTemperatureRequirement>平均温度需求</GeologicalLandforms.Settings.Landform.AvgTemperatureRequirement>
+  <!-- EN: Rainfall requirement -->
+  <GeologicalLandforms.Settings.Landform.RainfallRequirement>降雨量需求</GeologicalLandforms.Settings.Landform.RainfallRequirement>
+  <!-- EN: Swampiness requirement -->
+  <GeologicalLandforms.Settings.Landform.SwampinessRequirement>沼泽需求</GeologicalLandforms.Settings.Landform.SwampinessRequirement>
+  <!-- EN: Map size requirement -->
+  <GeologicalLandforms.Settings.Landform.MapSizeRequirement>地图尺寸需求</GeologicalLandforms.Settings.Landform.MapSizeRequirement>
+  <!-- EN: Allow non-player settlements -->
+  <GeologicalLandforms.Settings.Landform.AllowSettlements>允许生成其他派系定居点</GeologicalLandforms.Settings.Landform.AllowSettlements>
+  <!-- EN: Allow quest sites -->
+  <GeologicalLandforms.Settings.Landform.AllowSites>允许生成任务地点</GeologicalLandforms.Settings.Landform.AllowSites>
+  <!-- EN: Cave chance -->
+  <GeologicalLandforms.Settings.Landform.CaveChance>洞穴生成几率</GeologicalLandforms.Settings.Landform.CaveChance>
+  <!-- EN: Allow caves -->
+  <GeologicalLandforms.Settings.Landform.AllowCaves>允许生成洞穴</GeologicalLandforms.Settings.Landform.AllowCaves>
+  <!-- EN: Require caves -->
+  <GeologicalLandforms.Settings.Landform.RequireCaves>需要洞穴才能生成</GeologicalLandforms.Settings.Landform.RequireCaves>
+
+  <!-- EN: Any -->
+  <GeologicalLandforms.Settings.Landform.Topology.Any>任意</GeologicalLandforms.Settings.Landform.Topology.Any>
+  <!-- EN: Inland -->
+  <GeologicalLandforms.Settings.Landform.Topology.Inland>内陆</GeologicalLandforms.Settings.Landform.Topology.Inland>
+  <!-- EN: Coast on one side -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastOneSide>单侧有海岸</GeologicalLandforms.Settings.Landform.Topology.CoastOneSide>
+  <!-- EN: Coast on two adjacent sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastTwoSides>相邻两侧有海岸</GeologicalLandforms.Settings.Landform.Topology.CoastTwoSides>
+  <!-- EN: Coast on two opposite sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastLandbridge>平行两侧有海岸</GeologicalLandforms.Settings.Landform.Topology.CoastLandbridge>
+  <!-- EN: Coast on three sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastThreeSides>三侧有海岸</GeologicalLandforms.Settings.Landform.Topology.CoastThreeSides>
+  <!-- EN: Coast on all sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastAllSides>被海岸包围</GeologicalLandforms.Settings.Landform.Topology.CoastAllSides>
+  <!-- EN: Cliff on one side -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffOneSide>单侧有山崖</GeologicalLandforms.Settings.Landform.Topology.CliffOneSide>
+  <!-- EN: Cliff on two adjacent sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffTwoSides>相邻两侧有山崖</GeologicalLandforms.Settings.Landform.Topology.CliffTwoSides>
+  <!-- EN: Cliff on two opposite sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffValley>平行两侧有山崖</GeologicalLandforms.Settings.Landform.Topology.CliffValley>
+  <!-- EN: Cliff on three sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffThreeSides>三侧有山崖</GeologicalLandforms.Settings.Landform.Topology.CliffThreeSides>
+  <!-- EN: Cliff on all sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffAllSides>被山崖包围</GeologicalLandforms.Settings.Landform.Topology.CliffAllSides>
+  <!-- EN: Cliff and coast -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffAndCoast>山崖和海岸</GeologicalLandforms.Settings.Landform.Topology.CliffAndCoast>
+  <!-- EN: Ocean -->
+  <GeologicalLandforms.Settings.Landform.Topology.Ocean>海洋</GeologicalLandforms.Settings.Landform.Topology.Ocean>
+  
+  <!-- EN: northern -->
+  <GeologicalLandforms.Rot4.0>北部有</GeologicalLandforms.Rot4.0>
+  <!-- EN: eastern -->
+  <GeologicalLandforms.Rot4.1>东部有</GeologicalLandforms.Rot4.1>
+  <!-- EN: southern -->
+  <GeologicalLandforms.Rot4.2>南部有</GeologicalLandforms.Rot4.2>
+  <!-- EN: western -->
+  <GeologicalLandforms.Rot4.3>西部有</GeologicalLandforms.Rot4.3>
+  <!-- EN: northeastern -->
+  <GeologicalLandforms.Rot4.Double.0>东北部有</GeologicalLandforms.Rot4.Double.0>
+  <!-- EN: southeastern -->
+  <GeologicalLandforms.Rot4.Double.1>东南部有</GeologicalLandforms.Rot4.Double.1>
+  <!-- EN: southwestern -->
+  <GeologicalLandforms.Rot4.Double.2>西南部有</GeologicalLandforms.Rot4.Double.2>
+  <!-- EN: northwestern -->
+  <GeologicalLandforms.Rot4.Double.3>西北部有</GeologicalLandforms.Rot4.Double.3>
+  
+  <!-- EN: coast -->
+  <GeologicalLandforms.Landform.Coast>海岸</GeologicalLandforms.Landform.Coast>
+  <!-- EN: coast -->
+  <GeologicalLandforms.Landform.CoastCorner>海岸</GeologicalLandforms.Landform.CoastCorner>
+  <!-- EN: cove -->
+  <GeologicalLandforms.Landform.Cove>海湾</GeologicalLandforms.Landform.Cove>
+  <!-- EN: cove with island -->
+  <GeologicalLandforms.Landform.CoveWithIsland>海湾(中央有岛)</GeologicalLandforms.Landform.CoveWithIsland>
+  <!-- EN: peninsula -->
+  <GeologicalLandforms.Landform.Peninsula>半岛</GeologicalLandforms.Landform.Peninsula>
+  <!-- EN: isthmus -->
+  <GeologicalLandforms.Landform.Landbridge>地峡</GeologicalLandforms.Landform.Landbridge>
+  <!-- EN: tombolo -->
+  <GeologicalLandforms.Landform.Tombolo>连岛沙洲</GeologicalLandforms.Landform.Tombolo>
+  <!-- EN: coastal island -->
+  <GeologicalLandforms.Landform.CoastalIsland>沿岸岛屿</GeologicalLandforms.Landform.CoastalIsland>
+  <!-- EN: island -->
+  <GeologicalLandforms.Landform.Island>岛屿</GeologicalLandforms.Landform.Island>
+  <!-- EN: atoll -->
+  <GeologicalLandforms.Landform.Atoll>环礁</GeologicalLandforms.Landform.Atoll>
+  <!-- EN: archipelago -->
+  <GeologicalLandforms.Landform.Archipelago>群岛</GeologicalLandforms.Landform.Archipelago>
+  <!-- EN: lake -->
+  <GeologicalLandforms.Landform.Lake>湖泊</GeologicalLandforms.Landform.Lake>
+  <!-- EN: lake with island -->
+  <GeologicalLandforms.Landform.LakeWithIsland>湖心岛</GeologicalLandforms.Landform.LakeWithIsland>
+  <!-- EN: dry lake -->
+  <GeologicalLandforms.Landform.DryLake>干涸湖泊</GeologicalLandforms.Landform.DryLake>
+  <!-- EN: cliff -->
+  <GeologicalLandforms.Landform.Cliff>山崖</GeologicalLandforms.Landform.Cliff>
+  <!-- EN: cliff -->
+  <GeologicalLandforms.Landform.CliffCorner>山崖</GeologicalLandforms.Landform.CliffCorner>
+  <!-- EN: coast with cliff -->
+  <GeologicalLandforms.Landform.CliffAndCoast>沿岸山崖</GeologicalLandforms.Landform.CliffAndCoast>
+  <!-- EN: cirque -->
+  <GeologicalLandforms.Landform.Cirque>环形山谷</GeologicalLandforms.Landform.Cirque>
+  <!-- EN: valley -->
+  <GeologicalLandforms.Landform.Valley>山谷</GeologicalLandforms.Landform.Valley>
+  <!-- EN: canyon -->
+  <GeologicalLandforms.Landform.Canyon>峡谷</GeologicalLandforms.Landform.Canyon>
+  <!-- EN: lone mountain -->
+  <GeologicalLandforms.Landform.LoneMountain>孤山</GeologicalLandforms.Landform.LoneMountain>
+  <!-- EN: caldera -->
+  <GeologicalLandforms.Landform.Caldera>破火山口</GeologicalLandforms.Landform.Caldera>
+  <!-- EN: rift -->
+  <GeologicalLandforms.Landform.Rift>裂谷</GeologicalLandforms.Landform.Rift>
+  <!-- EN: crater -->
+  <GeologicalLandforms.Landform.Crater>凹地</GeologicalLandforms.Landform.Crater>
+  <!-- EN: oasis -->
+  <GeologicalLandforms.Landform.Oasis>绿洲</GeologicalLandforms.Landform.Oasis>
+  <!-- EN: swamp hill -->
+  <GeologicalLandforms.Landform.SwampHill>沼泽丘陵</GeologicalLandforms.Landform.SwampHill>
+  <!-- EN: ice oasis -->
+  <GeologicalLandforms.Landform.IceOasis>冰原绿洲</GeologicalLandforms.Landform.IceOasis>
+  <!-- EN: badlands -->
+  <GeologicalLandforms.Landform.Badlands>恶地</GeologicalLandforms.Landform.Badlands>
+  <!-- EN: desert plateau -->
+  <GeologicalLandforms.Landform.DesertPlateau>沙漠高原</GeologicalLandforms.Landform.DesertPlateau>
+  <!-- EN: skerry -->
+  <GeologicalLandforms.Landform.Skerry>礁石屿</GeologicalLandforms.Landform.Skerry>
+  <!-- EN: fjord -->
+  <GeologicalLandforms.Landform.Fjord>峡湾</GeologicalLandforms.Landform.Fjord>
+  <!-- EN: secluded cove -->
+  <GeologicalLandforms.Landform.SecludedCove>僻静海湾</GeologicalLandforms.Landform.SecludedCove>
+  
+  <!-- EN: (corner) -->
+  <GeologicalLandforms.Landform.Corner>(边角)</GeologicalLandforms.Landform.Corner>
+
+  <!-- EN: Geological Landforms -->
+  <GeologicalLandforms.Integration.PrepareLanding.Title>更多更好的地形生成</GeologicalLandforms.Integration.PrepareLanding.Title>
+  
+  <GeologicalLandforms.Integration.BiomesIslands.CoastPlants>在有海岸的地形生成Biomes! Islands Mod的植物</GeologicalLandforms.Integration.BiomesIslands.CoastPlants>
+  <GeologicalLandforms.Integration.BiomesIslands.CoastAnimals>在有海岸的地形生成Biomes! Islands Mod的动物</GeologicalLandforms.Integration.BiomesIslands.CoastAnimals>
+  <GeologicalLandforms.Settings.AnimalDensityFactorForSecludedAreas>偏隐地区的动物数量(例如峡湾，岛屿等)</GeologicalLandforms.Settings.AnimalDensityFactorForSecludedAreas>
+  
+</LanguageData>

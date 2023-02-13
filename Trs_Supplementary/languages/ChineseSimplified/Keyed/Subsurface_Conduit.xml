@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MUR_SubsurfaceConduit>地下电缆</MUR_SubsurfaceConduit>
+  <MUR_SubsurfaceConduit_SteelCostName>消耗的钢铁数目</MUR_SubsurfaceConduit_SteelCostName>
+  <MUR_SubsurfaceConduit_SteelCostDesc>建造每段地下电缆消耗的钢铁数目。 默认: 3</MUR_SubsurfaceConduit_SteelCostDesc>
+  <MUR_SubsurfaceConduit_WorkCostName>工作量</MUR_SubsurfaceConduit_WorkCostName>
+  <MUR_SubsurfaceConduit_WorkCostDesc>建造每段地下电缆所需的工作量。 默认: 15</MUR_SubsurfaceConduit_WorkCostDesc>
+  <MUR_SubsurfaceConduit_UnderWallName>可以放在墙下吗？</MUR_SubsurfaceConduit_UnderWallName>
+  <MUR_SubsurfaceConduit_UnderWallDesc>默认情况下，地下管道不能放置在已建造的墙下。然而，墙可以建在它们上面。此选项删除此限制。</MUR_SubsurfaceConduit_UnderWallDesc>
+</LanguageData>

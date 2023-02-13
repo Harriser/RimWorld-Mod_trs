@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+	<PUAH.allowCorpses>允许将型尸体放入背包</PUAH.allowCorpses>
+	<PUAH.allowCorpsesTooltip>默认关闭。只能将它们直接拿在手里。</PUAH.allowCorpsesTooltip>
+	<PUAH.allowAnimals>允许驯服的驮运动物使用mod协助搬运</PUAH.allowAnimals>
+	<PUAH.allowAnimalsTooltip>默认开启。最适用于为更多动物提供背包的模组，例如 VFME Caravan Packs</PUAH.allowAnimalsTooltip>
+	<PUAH.allowMechanoids>允许被骇入的机械体使用他们的库存进行拖运。</PUAH.allowMechanoids>
+	<PUAH.allowMechanoidsTooltip>需要 What The Hack 或类似的模组。默认开启</PUAH.allowMechanoidsTooltip>
+	<!-- <PUAH.minimumFreeInventorySpace>启用叠加搬运模式的可用空间</PUAH.minimumFreeInventorySpace> -->
+	<PUAH.minimumFreeInventorySpace>何时启用叠加搬运模式</PUAH.minimumFreeInventorySpace>
+	<PUAH.minimumFreeInventorySpaceTooltip>殖民者剩余搬运空间小于设置，使用原版搬运。\n0% 效果是让殖民者总是使用mod搬运模式，不管殖民者有没有放该物品的空间。\n100% 效果是殖民者不使用mod搬运模式。默认 20%</PUAH.minimumFreeInventorySpaceTooltip>
+</LanguageData>
