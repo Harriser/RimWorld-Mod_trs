@@ -12,8 +12,8 @@ RimWorld 部分模组的汉化
   - [前置需求](#前置需求)
 - [包模组及说明](#包模组及说明)
 - [源模组来源请求](#源模组来源请求)
-- [改善及协助的来源请求](#改善及协助的来源请求)
-- [](#)
+- [改善及协助的来源](#改善及协助的来源)
+
 
 
 ## 说明
@@ -69,33 +69,33 @@ RimWorld 部分模组的汉化
 
 
 
-## 源模组来源请求
-- [Blueprints](#https://github.com/fluffy-mods/Blueprints/releases/tag/v3.11.44)
-- [ColorCodedMoodBar](#https://steamcommunity.com/sharedfiles/filedetails/?id=2006605356)
-- [Dubs_Mint_Minimap](#https://github.com/Dubwise56/Dubs-Mint-Minimap)
-- [FasterBiosculpterPod_Keys](#https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077)
-- [Geological_LandformsDef](#https://github.com/m00nl1ght-dev/GeologicalLandforms)
-- [Hemogen_Extractor](#https://steamcommunity.com/sharedfiles/filedetails/?id=2903919607)
-- [Harmony](#https://github.com/pardeike/HarmonyRimWorld)
-- [Hugslib](#https://ludeon.com/forums/index.php?topic=28066.0)
-- [Map_Preview](#https://github.com/m00nl1ght-dev/MapPreview)
-- [More_Planning](#https://ludeon.com/forums/index.php?topic=31045.0)
-- [Numbers](#https://github.com/Mehni/kNumbers)
-- [OgreStack](#https://steamcommunity.com/sharedfiles/filedetails/?id=1447140290)
-- [Pick_Up_And_Haul](#https://github.com/Mehni/PickUpAndHaul)
-- [Quality_Colors](#https://steamcommunity.com/sharedfiles/filedetails/?id=2420141361)
-- [QualityBuilder](#https://ludeon.com/forums/index.php?topic=25188.0)
-- [Replace_stuff](#https://steamcommunity.com/sharedfiles/filedetails/?id=1372003680)
-- [RocketMan](#https://github.com/kbatbouta/RocketMan)
-- [Static_Quality_Stripped](#https://steamcommunity.com/sharedfiles/filedetails/?id=2801204005)
-- [Subsurface_Conduit](#https://steamcommunity.com/sharedfiles/filedetails/?id=1609226728)
-- [Wall_Light](#https://steamcommunity.com/sharedfiles/filedetails/?id=1423699208)
+ ## 源模组来源请求
+- [Blueprints](https://github.com/fluffy-mods/Blueprints/releases/tag/v3.11.44)
+- [ColorCodedMoodBar](https://steamcommunity.com/sharedfiles/filedetails/?id=2006605356)
+- [Dubs_Mint_Minimap](https://github.com/Dubwise56/Dubs-Mint-Minimap)
+- [FasterBiosculpterPod_Keys](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077)
+- [Geological_LandformsDef](https://github.com/m00nl1ght-dev/GeologicalLandforms)
+- [Hemogen_Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=2903919607)
+- [Harmony](https://github.com/pardeike/HarmonyRimWorld)
+- [Hugslib](https://ludeon.com/forums/index.php?topic=28066.0)
+- [Map_Preview](https://github.com/m00nl1ght-dev/MapPreview)
+- [More_Planning](https://ludeon.com/forums/index.php?topic=31045.0)
+- [Numbers](https://github.com/Mehni/kNumbers)
+- [OgreStack](https://steamcommunity.com/sharedfiles/filedetails/?id=1447140290)
+- [Pick_Up_And_Haul](https://github.com/Mehni/PickUpAndHaul)
+- [Quality_Colors](https://steamcommunity.com/sharedfiles/filedetails/?id=2420141361)
+- [QualityBuilder](https://ludeon.com/forums/index.php?topic=25188.0)
+- [Replace_stuff](https://steamcommunity.com/sharedfiles/filedetails/?id=1372003680)
+- [RocketMan](https://github.com/kbatbouta/RocketMan)
+- [Static_Quality_Stripped](https://steamcommunity.com/sharedfiles/filedetails/?id=2801204005)
+- [Subsurface_Conduit](https://steamcommunity.com/sharedfiles/filedetails/?id=1609226728)
+- [Wall_Light](https://steamcommunity.com/sharedfiles/filedetails/?id=1423699208)
 
 
 
-## 改善及协助的来源
-- [DnSpy](#https://github.com/dnSpy/dnSpy)
-- [Google Translate](#https://translate.google.com.hk/?hl=zh-CN)
-- [RimWorld Wiki](#https://rimworldwiki.com/)
-- [UnlimitedHugs](#https://steamcommunity.com/sharedfiles/filedetails/?id=2016725307)
-- [灰机-边缘世界维基](#https://rimworld.huijiwiki.com/wiki/%E4%B8%AD%E8%8B%B1%E9%A1%B5%E9%9D%A2%E5%AF%B9%E7%85%A7%E8%A1%A8)
+ ## 改善及协助的来源
+- [DnSpy](https://github.com/dnSpy/dnSpy)
+- [Google Translate](https://translate.google.com.hk/?hl=zh-CN)
+- [RimWorld Wiki](https://rimworldwiki.com/)
+- [UnlimitedHugs](https://steamcommunity.com/sharedfiles/filedetails/?id=2016725307)
+- [灰机-边缘世界维基](https://rimworld.huijiwiki.com/wiki/%E4%B8%AD%E8%8B%B1%E9%A1%B5%E9%9D%A2%E5%AF%B9%E7%85%A7%E8%A1%A8)
